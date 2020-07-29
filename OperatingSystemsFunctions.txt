@@ -1,0 +1,6 @@
+First Operating System Function:
+File Manager - Is used to manage all the files on the computer.
+It can search, open, move, create, delete, and change file properties.
+It is now called File Explorer. It changed when Windows 8 came out.
+It was Windows Explorer, now it's File Explorer.
+----------------------------------------------------
