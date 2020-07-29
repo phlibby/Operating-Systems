@@ -8,3 +8,9 @@ Second Operating System Function:
 Device Manager - Supplies device drivers
 It is a control panel applet that allows us to see and control our devices.
 We can view the technical properties, enable or disable the devices.
+----------------------------------------------------
+Third Operating System Function:
+Processor Management - The Operating System decides which process
+gets the processor when and for how much time. It acts as a traffic controller
+and allocates each process according to its priority.
+We can see the status of the processor by bringing up the task manager.
