@@ -4,3 +4,7 @@ It can search, open, move, create, delete, and change file properties.
 It is now called File Explorer. It changed when Windows 8 came out.
 It was Windows Explorer, now it's File Explorer.
 ----------------------------------------------------
+Second Operating System Function:
+Device Manager - Supplies device drivers
+It is a control panel applet that allows us to see and control our devices.
+We can view the technical properties, enable or disable the devices.
